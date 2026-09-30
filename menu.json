@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "price": 150,
+    "category": "Main Course"
+  },
+  {
+    "id": 2,
+    "name": "Classic Burger",
+    "price": 100,
+    "category": "Main Course"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Biryani",
+    "price": 250,
+    "category": "Main Course"
+  },
+  {
+    "id": 4,
+    "name": "Cold Drink",
+    "price": 70,
+    "category": "Beverages"
+  },
+  {
+    "id": 5,
+    "name": "Ice Cream",
+    "price": 40,
+    "category": "Desserts"
+  },
+  {
+    "id": 6,
+    "name": "French Fries",
+    "price": 90,
+    "category": "Starters"
+  },
+  {
+    "id": 7,
+    "name": "Veg Sandwich",
+    "price": 120,
+    "category": "Starters"
+  },
+  {
+    "id": 8,
+    "name": "Fresh Lime Soda",
+    "price": 80,
+    "category": "Beverages"
+  }
+]

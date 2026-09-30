@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.vscode/
+sales.json
+order.json
+bills/
